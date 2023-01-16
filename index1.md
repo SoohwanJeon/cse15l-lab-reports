@@ -1,4 +1,10 @@
 # cse15L lab report 1
+##introduce
+* -Soohwan Jeon
+- major: computer science
+-Favorite place in UCSD: Wong library and club med
+* I think B ruler would be the best ruler because it's flexible so it's portable and it can changed to any shape so it will be useful on many situations.
+
 ## Visual Studio Code
 
 * visit the visualstudio Code website [Link](https://code.visualstudio.com/) and download it on the computer.
