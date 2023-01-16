@@ -12,7 +12,8 @@
 2. Install git bash in vs code.
 3. Then, to use **ssh**,open a terminal in VScode.
 4. your command look like this **$ ssh cs15lwi23zz@ieng6.ucsd.edu** replace **zz** to your specific account.
-5. If you first connect to the server you will get message something like **ssh cs15lwi23zz@ieng6.ucsd.edu
+5. If you first connect to the server you will get message something like 
+**ssh cs15lwi23zz@ieng6.ucsd.edu
 The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
 RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
 Are you sure you wnant to continue connecting (yes/no/[fingerprint])?**
@@ -24,4 +25,5 @@ Are you sure you wnant to continue connecting (yes/no/[fingerprint])?**
 ## Run Some Commands
 *.you can use command on your computer for example cd<path> used to switch the current working directory to the given path.
 *I use the ls <directory> command to list the contents of the other directory.*
+  
 ![Image](command.png)
