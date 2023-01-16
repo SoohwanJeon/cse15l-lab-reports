@@ -1,5 +1,5 @@
 # cse15L lab report 1
-##introduce
+## introduce
 * -Soohwan Jeon
 - major: computer science
 -Favorite place in UCSD: Wong library and club med
