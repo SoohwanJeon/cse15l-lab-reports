@@ -1,19 +1,7 @@
-hello world
-*hello world*
-**hello world**
-# Heading 1
-## Heading 2
-[Link](http://a.com)
-![Image](http://url/a.png)
-> Blockquote
-* List
-1. One
-2. Two
-3. Three
-Horizontal rule:
+#cse15L lab report 1
+##Visual Studio Code
 
----
-`Inline code` with backticks
-# code block
-print '3 backticks or'
-print 'indent 4 spaces'
+*visit the visualstudio Code website [Link](https://code.visualstudio.com/) and download it on the computer.
+*Once the VS Code setup create new folder on the preferred location
+*Create a new file by clicking “File” - “New Text File” 
+*Once you’re done typing, choose “File” then “Save” then change type to “Java” and save the file
