@@ -8,7 +8,7 @@ Command Cp allows you to create a copy of the contents of the file.
 **What happen if I run mac command on window?**
 it gives result like this image
 
-![Image](command(2).png)
+![Image](command1.png)
 
 ---------------------------------------------------------------------
 **what was the failure-inducing input (the test)? What was the symptom (the output when the test failed)?**
