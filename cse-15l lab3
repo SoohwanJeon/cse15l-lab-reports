@@ -1,5 +1,5 @@
 **Find command**
-=========================================================================================
+----------------------------------------------------------------------------------------
 * -name demo: search for files named demo.
 
 * -iname demo:Search for files named demo irrespective of upper/lower case.
