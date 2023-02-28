@@ -11,6 +11,10 @@ I use gitclone to clone the lab7 file in to my repository
 ----------------------------------------------------------------------------------------------------------------------------
 3. Run the tests, demonstrating that they fail
 
+Use javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java
+and java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamples 
+to test the junit test
+
 ![Image](2.png)
 
 ----------------------------------------------------------------------------------------------------------------------------
@@ -33,6 +37,8 @@ After finish editing the file I save the file by using <^o> and exit by typing <
 ----------------------------------------------------------------------------------------------------------------------------
 5. Run the tests, demonstrating that they now succeed
 
-run the Junit test again and check all test is run successfully.
+Use javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java
+and java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamples 
+to run the Junit test again and check all test is run successfully.
 
 ![Image](5.png)
