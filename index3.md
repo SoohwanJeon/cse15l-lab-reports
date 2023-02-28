@@ -30,4 +30,9 @@ if the index2 is not increased then it can be infinite loop
 ![Image](4.png)
 
 After finish editing the file I save the file by using <^o> and exit by typing <^x>
+----------------------------------------------------------------------------------------------------------------------------
+5. Run the tests, demonstrating that they now succeed
 
+run the Junit test again and check all test is run successfully.
+
+![Image](5.png)
