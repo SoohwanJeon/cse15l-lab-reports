@@ -103,11 +103,14 @@ Lastly Git push to git
 Run the command ssh-keygen <enter>
 press Enter until the command completes and shows the “randomart image”
 <enter>,<enter>,<enter>
+(/home/linux/ieng6/cs15lwi23/cs15lwi23afg/.ssh/id_rsa):
 git clone git@github.com:SoohwanJeon/lab7.git <enter>
-add ListExample.java <enter>
+git add ListExample.java <enter>
 git commit -m "Soohwan" <enter>
 git push <enter>
 ```
+
+
 
 
 
