@@ -1,5 +1,10 @@
 1. Log into ieng6
-
+To log in to my account I pressed 
+```
+# code block
+ssh cs15lwi23afg@ieng6.ucsd.edu
+and my pw
+```
 
 ![Image](1.png)
 ----------------------------------------------------------------------------------------------------------------------------
