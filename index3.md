@@ -95,8 +95,7 @@ to run the Junit test again and check all test is run successfully.
 javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.
 java <enter>
 java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.
-junit.runner.JUnitCore
-ListExamples <enter>
+junit.runner.JUnitCore ListExamples <enter>
 ```
 
 ![Image](5.png)
