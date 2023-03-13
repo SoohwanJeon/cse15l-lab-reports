@@ -25,7 +25,8 @@ gitclone git@github.com:ucsd-cse15l-w23/lab7.git
 ```
 # code block
 javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java <enter>
-java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamples <enter>
+java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.
+JUnitCore ListExamples <enter>
 ```
 
 to test the junit test
@@ -59,7 +60,8 @@ if the index2 is not increased then it can be infinite loop
 ```
 # code block
 press the down and right keyboard to move the cursor to a while loop which is in merge function.
-<down>,<down>,<down>,<down>,<down>,<down>,<down>,<down>,<right>,<right>,<right>,<right>,<right>,<right>,<right>
+<down>,<down>,<down>,<down>,<down>,<down>,<down>,<down>,<right>,<right>,<right>,<right>,
+<right>,<right>,<right>
 
 change index1 to index2.
 <delete>,press 2.
@@ -88,7 +90,8 @@ to run the Junit test again and check all test is run successfully.
 ```
 # code block
 javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java <enter>
-java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamples <enter>
+java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore
+ListExamples <enter>
 ```
 
 ![Image](5.png)
