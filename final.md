@@ -1,5 +1,5 @@
 # grep
-============================================================================================
+
 grep -i: The -i option in grep stands for "ignore case." When you use the 
 -i option with grep, it tells the command to search for a specified pattern
 without considering the case of the letters in the pattern.
