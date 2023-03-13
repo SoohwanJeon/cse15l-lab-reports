@@ -93,3 +93,24 @@ java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnit
 
 ![Image](5.png)
 ------------------------------------------------------------------------------------------------------------------------------
+6. Commit and push the resulting change to your Github account 
+
+Use Git clone to clone the path to local computer
+Use Git commit to send local git
+Lastly Git push to git 
+```
+# code block
+Run the command ssh-keygen <enter>
+press Enter until the command completes and shows the “randomart image”
+<enter>,<enter>,<enter>
+git clone git@github.com:SoohwanJeon/lab7.git <enter>
+add ListExample.java <enter>
+git commit -m "Soohwan" <enter>
+git push <enter>
+```
+
+
+
+
+
+
