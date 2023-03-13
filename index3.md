@@ -45,7 +45,8 @@ to result.add(s)
 # code block
 nano ListExamples.java 
 press the down and right keyboard to move the cursor to a result.add(0, s);
-<down>,<down>,<down>,<down>,<down>,<right>,<right>,<right>,<right>,<right>,<right>,<right>
+<down>,<down>,<down>,<down>,<down>,<right>,<right>,<right>,
+<right>,<right>,<right>,<right>
 
 delete 0, 
 <delete>,<delete>
@@ -59,9 +60,10 @@ if the index2 is not increased then it can be infinite loop
 
 ```
 # code block
-press the down and right keyboard to move the cursor to a while loop which is in merge function.
-<down>,<down>,<down>,<down>,<down>,<down>,<down>,<down>,<right>,<right>,<right>,<right>,
-<right>,<right>,<right>
+press the down and right keyboard to move the cursor to a while loop which is 
+in merge function.
+<down>,<down>,<down>,<down>,<down>,<down>,<down>,<down>,<right>,
+<right>,<right>,<right>,<right>,<right>,<right>
 
 change index1 to index2.
 <delete>,press 2.
@@ -84,13 +86,16 @@ exit
 
 
 Use javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java
-and java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamples 
+and java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit
+.runner.JUnitCore ListExamples 
 to run the Junit test again and check all test is run successfully.
 
 ```
 # code block
-javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java <enter>
-java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore
+javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.
+java <enter>
+java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.
+junit.runner.JUnitCore
 ListExamples <enter>
 ```
 
